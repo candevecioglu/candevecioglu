@@ -5,4 +5,5 @@ This page is intentionally left blank. I'm working on it :)
 - :iphone: I’m currently learning Swift for iOS development
 
 
-- ⚡ Fun fact: The moon has moonquakes.
+- ⚡ Fun quote: “Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it.”
+― Linus Torvalds
